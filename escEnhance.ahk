@@ -44,3 +44,7 @@ ToggleCaps() {
 }
 LShift & RShift:: ToggleCaps()
 RShift & LShift:: ToggleCaps()
+
+#SuspendExempt
+^!Esc:: Suspend
+#SuspendExempt false
