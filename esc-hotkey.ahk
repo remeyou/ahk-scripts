@@ -7,6 +7,7 @@ Esc & F5:: Reload
 Esc & F4:: ExitApp
 #SuspendExempt false
 
+; Remap special
 Esc & h::Left
 Esc & j::Down
 Esc & k::Up
@@ -15,8 +16,8 @@ Esc & m::AppsKey
 Esc & [::Volume_Down
 Esc & ]::Volume_Up
 Esc & q::!F4
-Esc & r::F5
 
+; Remap function key
 Esc & 1::F1
 Esc & 2::F2
 Esc & 3::F3
@@ -29,8 +30,9 @@ Esc & 9::F9
 Esc & 0::F10
 Esc & -::F11
 Esc & =::F12
+!F4::!F4
 
-
+; Remap window switch
 F1::#1
 F2::#2
 F3::#3
@@ -42,4 +44,19 @@ F8::#8
 F9::#9
 F10::#0
 
-!F4::!F4
+; Remap ctrl combinations
+Esc & s::^s
+Esc & w::^w
+Esc & x::^x
+Esc & c::^c
+Esc & v::^v
+Esc & t::^t
+Esc & p::^p
+Esc & z::^z
+Esc & b::^b
+Esc & f::^f
+Esc & o::^o
+Esc & i::^i
+Esc & r::^r
+Esc & BackSpace::^BackSpace
+Esc & Enter::^Enter
