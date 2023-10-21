@@ -58,5 +58,7 @@ Esc & f::^f
 Esc & o::^o
 Esc & i::^i
 Esc & r::^r
+Esc & a::^a
+Esc & d::^d
 Esc & BackSpace::^BackSpace
 Esc & Enter::^Enter
