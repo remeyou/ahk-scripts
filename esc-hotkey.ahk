@@ -62,3 +62,6 @@ Esc & a::^a
 Esc & d::^d
 Esc & BackSpace::^BackSpace
 Esc & Enter::^Enter
+Esc & Space::^Space
+Esc & ,::^,
+Esc & .::^.
