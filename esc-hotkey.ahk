@@ -68,3 +68,4 @@ Esc & Enter::^Enter
 Esc & Space::^Space
 Esc & ,::^,
 Esc & .::^.
+Esc & /::^/
