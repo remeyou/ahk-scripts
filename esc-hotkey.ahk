@@ -13,8 +13,11 @@ Esc & j::Down
 Esc & k::Up
 Esc & l::Right
 Esc & m::AppsKey
-Esc & [::Volume_Down
-Esc & ]::Volume_Up
+Esc & [::Media_Prev
+Esc & ]::Media_Next
+Esc & \::Media_Play_Pause
+Esc & `;::Volume_Down
+Esc & '::Volume_Up
 Esc & q::!F4
 
 ; Remap function key
