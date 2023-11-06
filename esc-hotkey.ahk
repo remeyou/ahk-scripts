@@ -1,3 +1,4 @@
+#Requires AutoHotkey v2
 #SingleInstance
 
 #SuspendExempt true
@@ -69,3 +70,4 @@ Esc & Space::^Space
 Esc & ,::^,
 Esc & .::^.
 Esc & /::^/
+Esc & u::^u
