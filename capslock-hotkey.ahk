@@ -7,9 +7,9 @@ Capslock & F6:: Suspend
 Capslock & F5:: Reload
 Capslock & F4:: ExitApp
 ToggleCaps() {
-    SetStoreCapsLockMode False
+    SetStoreCapsLockMode false
     Send "{CapsLock}"
-    SetStoreCapsLockMode True
+    SetStoreCapsLockMode true
     return
 }
 LShift & RShift:: ToggleCaps()
